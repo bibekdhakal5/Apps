@@ -1,0 +1,26 @@
+# Local configuration
+.local.properties
+.env
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android
+*.apk
+*.ap_
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
